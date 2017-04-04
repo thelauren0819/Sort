@@ -10,7 +10,7 @@ public class SortTimer
 {  
     public static void main(String[] args)
     {  
-        final int ARRAY_SIZE = 10;
+        final int ARRAY_SIZE = 100000;
 
         // Construct random array
         int[] a = ArrayUtil.randomIntArray(ARRAY_SIZE, 10000);
